@@ -1,0 +1,5 @@
+The code contains engines which are quite huge for GitHub; therefore, may be downloaded by using the following link:
+
+https://neuralresolv.paperbus.org/neuralresolv-code.zip
+
+Tested on NVIDIA RTX GPU with Visual Studio 2022.
